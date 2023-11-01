@@ -1,4 +1,5 @@
-<img src="ìmageséPicture0.png" width=250 >
+<img src="ìmages/Picture0.png" width=250 >
+
 # The Internship Network in Mathematical Sciences
 
 ## Workshop #2
