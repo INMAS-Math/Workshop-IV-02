@@ -1,4 +1,4 @@
-<img src="ìmages/Picture0.png" width=250 >
+<img src="ìmages/Picture0.png" width=250x \>
 
 # The Internship Network in Mathematical Sciences
 
