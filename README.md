@@ -2,8 +2,8 @@
 
 # The Internship Network in Mathematical Sciences
 
-## Workshop #2
-This material is part of INMAS Workshop #2 - Statistical Methods
+## Workshop #2 - Statistical Methods
+This material is part of the NMAS Workshop Series.
 
 This Workshop is a basic introduction to ....
 
