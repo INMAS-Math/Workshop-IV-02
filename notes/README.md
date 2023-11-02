@@ -8,4 +8,4 @@ The materials in this folder are under CC BY-NC 4.0 (non-commercial use).
 |4 | Logistic Regression | 15 min | 
 
 
-These lecture notes build on notes originally authored by statisticians at Bucknell University. They were then adapted and modified by Sara Stoudt, including the addition of new examples for the purposes of this workshop.
+These lecture notes build on notes originally authored by statisticians at Bucknell University. They were adapted and modified by Sara Stoudt and tailored for this workshop, including the addition of new examples for the purposes of this workshop.
