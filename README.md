@@ -21,7 +21,7 @@ Here is an overview of the notebooks that are part of Workshop #2. The two colum
 |04b | Logistic Regression - Supplement | 30 min | N/A |
 |05  | Data Sandbox | 90 min | 90 min |
 
-## Credits
+### Credits
 
 These notebooks were originally authored by James Balamuta and Zachary Pisano. They were then adapted and modified by Sara Stoudt.
 
