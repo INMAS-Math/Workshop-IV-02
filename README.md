@@ -1,6 +1,8 @@
-<img src="images/inmas.png" width=130x align='right' \>
+<img src="images/inmas.png" width=130x align='right' >
+<br><br>
 
 # The Internship Network in the Mathematical Sciences
+<br>
 
 ## Workshop #2 - Statistical Methods
 This material is part of the INMAS Workshop Series.
